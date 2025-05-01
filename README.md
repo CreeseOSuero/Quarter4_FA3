@@ -1,1 +1,3 @@
-# Quarter4_FA3.
+- This is a laboratory activity on Modules 12.1, 12.2, 13.1 and 13.2
+- The topics covered in this activity are loops and arrays
+- https://github.com/CreeseOSuero/Quarter4_FA3
